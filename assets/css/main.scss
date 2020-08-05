@@ -5,11 +5,19 @@
 
 $large-font-size: 1.2rem;
 $sidebar-width: 18rem;
-$sidebar-bg-color: #FFFACD;
-$sidebar-fg-color: #B8860B;
+# $sidebar-bg-color: #FFFACD;
+# $sidebar-fg-color: #B8860B;
 $sidebar-sticky: true;
-$link-color: #B8860B;
+# $link-color: #B8860B;
 $root-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Didot, Arial, sans-serif;
-$root-font-size: 1rem !default;
-$root-line-height: 1.3 !default;
+$root-font-size: 1rem;
+$root-line-height: 1.3;
+$sidebar-bg-color: #ccc;
+$sidebar-fg-color: #202020;
+$sidebar-sticky: true;
+$body-color: #ffe;
+$body-muted: #767676 ;
+$body-bg: #313131 ;
+$heading-color: rgb(238, 189, 97);
+$link-color: rgb(238, 189, 97);
 @import "hydeout";
