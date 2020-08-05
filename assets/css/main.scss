@@ -3,13 +3,13 @@
 # only main files contain this front matter, not partials.
 ---
 
-$large-font-size: 1.1rem;
+$large-font-size: 1.2rem;
 $sidebar-width: 18rem;
 $sidebar-bg-color: #FFFACD;
 $sidebar-fg-color: #B8860B;
 $sidebar-sticky: true;
 $link-color: #B8860B;
-$root-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Didot, 'Arial', sans-serif;
-$root-font-size: 0.9rem !default;
+$root-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Didot, Arial, sans-serif;
+$root-font-size: 1rem !default;
 $root-line-height: 1.3 !default;
 @import "hydeout";
