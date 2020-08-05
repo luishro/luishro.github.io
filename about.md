@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre
+sidebar_sort_order: 5
 sidebar_link: true
 ---
 
