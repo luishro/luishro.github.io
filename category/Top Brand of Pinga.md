@@ -3,8 +3,8 @@ layout: category
 title: Top Brand of Pinga
 ---
 
-Essa coluna dedica-se aos mangás que chamaram mais minha atenção, os que merecem reconhecimento como melhoras marcas do seu gênero. O que não quer dizer muita coisa... <p>
-E esse nome? Vem de uma cena clássica do mangá Bartender, na qual ele apresenta uma  51 como sendo a top pinga do mercado (risos).
+Essa coluna dedica-se aos mangás que chamaram mais minha atenção, os que merecem reconhecimento como melhoras marcas do seu gênero. O que não quer dizer muita coisa... <br>
+E esse nome? Vem de uma cena clássica do mangá [Bartender](), na qual ele apresenta uma  51 como sendo a top pinga do mercado (risos).
 
 ![bartender](/assets/images/toppinga.jpg)
 
