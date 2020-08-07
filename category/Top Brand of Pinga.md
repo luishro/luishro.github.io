@@ -3,9 +3,10 @@ layout: category
 title: Top Brand of Pinga
 ---
 
-Essa coluna se dedica às CACHAÇAS que acompanho rotineiramente. Mangás semanais, como da Jump ou da Magazine, mangás mensais ou mesmo aqueles que saem segundo a ordem divina.
-<p> 
-Serão análises curtas, apenas para dar uma visão geral sobre certos capítulos. Pretendo ainda aglutinar as obras que saem juntas, como a Jump que está disponível oficialmente todo domingo.
-<p>
+Essa coluna dedica-se aos mangás que chamaram mais minha atenção, os que merecem reconhecimento como melhoras marcas do seu gênero. O que não quer dizer muita coisa...
+E esse nome? Vem de uma cena clássica do mangá Bartender, na qual ele apresenta uma  51 como sendo a top pinga do mercado (risos).
+
+[bartender](/assets/images/toppinga.jpg)
+
 
 <h1>Leia mais:
