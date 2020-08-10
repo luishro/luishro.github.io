@@ -21,7 +21,7 @@ E o mangá gira justamente em torno disso: a vida do barman, a magia dos coquet�
 
 Bartender me chamou a atenção primeiramente por ser uma leitura aparentemente branda, afinal, é um *slice of life* sobre drinks! Nesse quesito, minhas expectativas foram atendidas: o mangá tem um conteúdo puxado sobre os variados tipos de coquetéis, contando a origem de cada um e das respetivas bebidas-base. Além, é claro, de demonstrar as astúcias que um bartender deve ter: como preparar os copos, os instrumentos, o ponto e a estrutura do gelo, a delicadeza necessária para manipular gentilmente cada líquido, a maestria com o manusear do *shaker*. É um banho de informação! Mesmo se bebidas em geral não te interesse, o assunto se torna palatável em razão da maneira que a informação é trazida, sempre com algum contexto e um conto por trás. É notável o esforço que os autores empregaram na pesquisa. <br>
 
-![preparação](/assests/images/bartender/preparação.png)
+![preparação](/assests/images/bartender/prep.png)
 
 O aspecto que mais me chamou atenção - contudo - é como os autores utilizam o cenário de um bar para trabalhar com as mais diversas nuances de sentimentos. A bancada do bar é um palco, conforme os próprios personagens relatam - porém, é um palco onde os clientes podem se despir das façadas e das máscaras sociais que tem de sustentar durante o dia. O bar é o local onde a pessoa pode ser ela mesma, com a ajuda, é claro, de alguma dose de álcool nas veias.
 
