@@ -13,16 +13,17 @@ tags:
 
 Olá! Esse é o primeiro post efetivo após as boas-vindas ao blog. Quanta ansiedade em vos escrever!
 <br>
-O mangá que me propus a resenhar primeiramente é o [Bartender](https://www.mangaupdates.com/series.html?id=4904), obra escrita por Araki Joh e desenhada por Ken Nagamoto. Em linhas curtas, Bartender conta sobre os dias de Ryu Sasakura como um barman em diversos bares da região de Ginza (e eventualmente em Chiba), Tóquio, que, pelo que pude entender, é um ponto boêmio da cidade com uma quantidade expressiva de estabelecimentos especializados em coquetéis.<br>
+O mangá que me propus a resenhar primeiramente é o [Bartender](https://www.mangaupdates.com/series.html?id=4904), obra escrita por Araki Joh e desenhada por Ken Nagamoto. Comecei a lê-la ano passado, como um incentivo para estudar francês (dizem que você deve associar o estudo de línguas a algo que se gosta, e assim o fiz). Em linhas curtas, Bartender conta sobre os dias de Ryu Sasakura como um barman em diversos bares da região de Ginza (e eventualmente em Chiba), Tóquio, que, pelo que pude entender, é um ponto boêmio da cidade com uma quantidade expressiva de estabelecimentos especializados em coquetéis.<br>
 
 ![capa](/assets/images/bartender/capa.jpg)
 
 
 E o mangá gira justamente em torno disso: a vida do barman, a magia dos coquetéis, o encontro com os mais diversos tipos de clientes. Mesmo sendo jovem (o protagonista tem 28 anos na história principal), Sasakura carrega a fama de produzir coquetéis refinados, com toques verdadeiramente fantásticos. E não é por menos, seu objetivo - se é que podemos definir assim - é alcançar a bebida perfeita, a taça de deus - <em> verre de dieu </em>, na tradução que leio. Um título um pouco exagerado? Talvez, contudo o mangá brinca constantemente com esse conceito. <br>
 
-Bartender me chamou a atenção primeiramente por ser uma leitura aparentemente branda, afinal, é um *slice of life* sobre drinks! Nesse quesito, minhas expectativas foram atendidas: o mangá tem um conteúdo puxado sobre os variados tipos de coquetéis, contando a origem de cada um e das respetivas bebidas-base. Além, é claro, de demonstrar as astúcias que um bartender deve ter: como preparar os copos, os instrumentos, o ponto e a estrutura do gelo, a delicadeza necessária para manipular gentilmente cada líquido, a maestria com o manusear do *shaker*. É um banho de informação! Mesmo se bebidas em geral não te interesse, o assunto se torna palatável em razão da maneira que a informação é trazida, sempre com algum contexto e um conto por trás. É notável o esforço que os autores empregaram na pesquisa. <br>
+Bartender me chamou a atenção primeiramente por ser uma leitura aparentemente branda, afinal, é um *slice of life* sobre drinks! Nada de dramas, batalhas épicas, poderes especiais, nem nada.<br>
+Nesse quesito, minhas expectativas foram atendidas: o mangá traz um conteúdo forte sobre os variados tipos de coquetéis, contando a origem de cada um e das respetivas bebidas-base. Além, é claro, de demonstrar as astúcias que um bartender deve ter: como preparar os copos, os instrumentos, o ponto e a estrutura do gelo, a delicadeza necessária para manipular gentilmente cada líquido, a maestria com o manusear do *shaker*. É um banho de informação! Mesmo se bebidas em geral não te interesse, o assunto se torna palatável em razão da maneira que a informação é trazida, sempre com algum contexto e um conto por trás. É notável o esforço que os autores empregaram na pesquisa. <br>
 
-![prep](/assests/images/bartender/prep.png)
+![prep](/assets/images/bartender/prep.png)
 
 
 O que nos prende à história - contudo - é como os autores utilizam o cenário de um bar para trabalhar com as mais diversas nuances de sentimentos. A bancada do bar é um palco, conforme os próprios personagens relatam - porém, é um palco onde os clientes podem se despir das façadas e das máscaras sociais que tem de sustentar durante o dia. O bar é o local onde a pessoa pode ser ela mesma, com a ajuda, é claro, de alguma dose de álcool nas veias.
@@ -30,7 +31,8 @@ O que nos prende à história - contudo - é como os autores utilizam o cenário
 ![palco](/assets/images/bartender/palco.png)
 
 
-Apesar de parecer uma mensagem de apoio ao consumo de bebidas <del>(talvez seja mesmo)</del>, o drink aparece boa parte das vezes como um elemento de ligação, de empatia; o barman é mais do que um empregado do local, está lá para te ouvir, para conversar, nem que seja sobre o tempo, e também para oferecer conforto quando necessário. O drink perfeito serve para afagar os corações machucados, para alegrar os ânimos, para fazer refletir, para trazer memórias de volta. A ênfase, na verdade, vai para o indíviduo do outro lado da bancada, que interpreta os sinais do cliente e processa todas as sensações num drink. Chega a ser poético.<br>
+Apesar de parecer uma mensagem de apoio ao consumo de bebidas <del>(talvez seja mesmo)</del>, o drink aparece boa parte das vezes como um elemento de ligação, de empatia; o barman é mais do que um empregado do local, está lá para te ouvir, para conversar, nem que seja sobre o tempo, e também para oferecer conforto quando necessário. O drink perfeito serve para afagar os corações machucados, para alegrar os ânimos, para fazer refletir, para trazer memórias de volta. A ênfase, na verdade, vai para o indíviduo do outro lado da bancada, que interpreta os sinais do cliente e processa todas as sensações num drink. Chega a ser poético. 
+Em razão disso, por muitas vezes o barman é levado a um patamar quase sobre-terreno - seria ele uma entidade abençoada por notas etílicas? <br>
 
 
 ![mensagem](/assets/images/bartender/mensagem.png)
