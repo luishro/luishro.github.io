@@ -15,7 +15,7 @@ Olá! Esse é o primeiro post efetivo após as boas-vindas ao blog. Quanta ansie
 <br>
 O mangá que me propus a resenhar primeiramente é o [Bartender](https://www.mangaupdates.com/series.html?id=4904), obra escrita por Araki Joh e desenhada por Ken Nagamoto. Em linhas curtas, Bartender conta sobre os dias de Ryu Sasakura como um barman em diversos bares da região de Ginza (e eventualmente em Chiba), Tóquio, que, pelo que pude entender, é um ponto boêmio da cidade com uma quantidade expressiva de estabelecimentos especializados em coquetéis.<br>
 
-![capa]/assets/images/bartender/capa.jpg
+![capa](/assets/images/bartender/capa.jpg)
 
 E o mangá gira justamente em torno disso: a vida do barman, a magia dos coquetéis, o encontro com os mais diversos tipos de clientes. Mesmo sendo jovem (o protagonista tem 28 anos na história principal), Sasakura carrega a fama de produzir coquetéis refinados, com toques verdadeiramente fantásticos. E não é por menos, seu objetivo - se é que podemos definir assim - é alcançar a bebida perfeita, a taça de deus - <em> verre de dieu </em>, na tradução que leio. Um título um pouco exagerado? Talvez, contudo o mangá brinca constantemente com esse conceito. <br>
 
